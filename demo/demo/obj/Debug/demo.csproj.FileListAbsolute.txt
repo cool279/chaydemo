@@ -1,0 +1,8 @@
+C:\Users\Kristin Allmandinger\chaydemo\demo\demo\bin\Debug\demo.exe
+C:\Users\Kristin Allmandinger\chaydemo\demo\demo\bin\Debug\demo.pdb
+C:\Users\Kristin Allmandinger\chaydemo\demo\demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kristin Allmandinger\chaydemo\demo\demo\obj\Debug\demo.Form1.resources
+C:\Users\Kristin Allmandinger\chaydemo\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\Kristin Allmandinger\chaydemo\demo\demo\obj\Debug\demo.csproj.GenerateResource.Cache
+C:\Users\Kristin Allmandinger\chaydemo\demo\demo\obj\Debug\demo.exe
+C:\Users\Kristin Allmandinger\chaydemo\demo\demo\obj\Debug\demo.pdb
